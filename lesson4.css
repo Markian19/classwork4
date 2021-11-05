@@ -1,0 +1,258 @@
+body{
+    margin-top: 0px;
+    margin-left: 310px;
+    margin-right: 310px;
+}
+.bg1{
+    background: silver;
+}
+.bg2{
+    background: #111136;
+}
+.bg3{
+    background: #6128af;
+}
+.bordrad{
+    border-radius: 12px;
+}
+.col{
+    color: #6128af;
+}
+.communication{
+    height:  60px;
+    display: flex;
+    align-items: flex-start;
+
+}
+.communnicatoin_logo{
+    height: 60px;
+    width: 50%;
+    padding: 15px;
+    box-sizing: border-box;
+}
+.logo{
+    height: 30px;
+    width: 80px;
+    margin-left: 50px;
+}
+.communnicatoin_search{
+    height: 60px;
+    width: 50%;
+    padding: 10px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.fas{
+    color: #6128af;
+}
+.search a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+.burger a{
+    text-decoration: none;
+    margin-right: 50px;
+}
+.header{
+    width: 100%;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 25px;
+    margin-top: 25px;
+}
+.text{
+    text-align: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    line-height: 30px;
+}
+button{
+    height: 30px;
+    width: 120px;
+    color: #111136;
+    background: #6128af;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+.main_item{
+    height: 160px;
+    width: 100%;
+    background: linear-gradient(#111136 50%,silver 50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    height: 120px;
+    width: 150px;
+    margin: 20px;
+}
+.content{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 110px;
+    padding-right: 110px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+h2{
+    font-size: 20px;
+    margin-top: 25px;
+    align-items: center;
+    color: #111136;
+}
+.content_blocks{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.block{
+    height: 170px;
+    width: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+}
+.photo{
+    height: 120px;
+    width: 150px;
+    background: #6128af;
+}
+.content1{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    padding-left: 110px;
+    padding-right: 110px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.content_blocks1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.photo1{
+    height: 140px;
+    width: 320px;
+    background: #6128af;
+    margin: 10px;
+}
+.block1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+.block1 p{
+    margin: 5px;
+    margin-bottom: 30px;
+    color: #111136;
+}
+
+.slider{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding-left: 110px;
+    padding-right: 110px;
+    justify-content: center;
+    align-items: center;
+}
+h3{
+    margin: 5px;
+    margin-bottom: 15px;
+    align-items: center;
+}
+.slid{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+}
+.back a{
+    text-decoration: none;
+    margin-right: 15px;
+
+}
+.forward a{
+    text-decoration: none;
+    margin-left: 15px;
+}
+.photo2{
+    height: 120px;
+    width: 180px;
+    margin: 10px;
+}
+.reviews{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    padding-top: 100px;
+    padding-left: 110px;
+    padding-right: 110px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.possition_photo_reviews{
+    width: 30%;
+    align-items: flex-start;
+}
+.photo_reviews{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+.reviews_tema{
+    width: 70%;
+    align-items: flex-start;
+}
+.footer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.icon{
+    height: 40px;
+    width: 40px;
+    margin: 10px;
+    margin-top: 25px;
+}
+.text_copyright p{
+    align-items: center;
+    font-size: 20px;
+}
+
+
+
+
